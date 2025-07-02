@@ -57,13 +57,13 @@ npm --version          # Should output v9+
 npm create vite@latest
 
 # You'll be prompted to enter:
-# - Project name
+# - Project name : frontend
 # - Framework: React
 # - Variant: JavaScript
 
 # 📂 3. Move into the Project Directory
 
-cd your-app-name
+cd frontend
 
 # 📦 4. Install Project Dependencies
 
@@ -100,7 +100,44 @@ npm run dev
 import Todo from './projects/Todo';
 import UserManagement from './projects/Users';
 import Gallery from './projects/Gallery';
+
+#come to the root directory where the react app is created 
+
+# Create backend folder
+mkdir backend
+cd backend
+
+# Create virtual environment
+python -m venv env
+source env/bin/activate  # On Windows: env\Scripts\activate
+
+# Install core packages
+pip install django djangorestframework django-environ
+
+# Start project
+django-admin startproject core .
+python manage.py startapp api
+
+# Migrate and run
+python manage.py migrate
+python manage.py runserver
+
+#Backend and frontend will be running currently
+
 ```
+## 📂 Folder Structure
+
+project-root/
+├── backend/
+│   ├── core/
+│   ├── api/
+│   ├── manage.py
+│   └── requirements.txt
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   └── package.json
+
 
 ## 🌟 Why This Stands Out  
 
