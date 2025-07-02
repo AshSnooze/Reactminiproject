@@ -126,7 +126,17 @@ python manage.py runserver
 
 ```
 ## 📂 Folder Structure
-<pre> ``` project-root/ ├── backend/ │ ├── core/ │ ├── api/ │ ├── manage.py │ └── requirements.txt ├── frontend/ │ ├── src/ │ ├── public/ │ └── package.json ``` </pre>
+```project-root/
+├── backend/
+│   ├── core/
+│   ├── api/
+│   ├── manage.py
+│   └── requirements.txt
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   └── package.json
+```
 
 ## 🌟 Why This Stands Out  
 
