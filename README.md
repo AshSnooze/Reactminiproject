@@ -126,7 +126,8 @@ python manage.py runserver
 
 ```
 ## 📂 Folder Structure
-```project-root/
+```
+project-root/
 ├── backend/
 │   ├── core/
 │   ├── api/
