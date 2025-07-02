@@ -1,0 +1,47 @@
+# === Global ===
+.env
+*.log
+__pycache__/
+*.py[cod]
+*.sqlite3
+.DS_Store
+*.swp
+*.swo
+*.bak
+*.tmp
+node_modules/
+*.lock
+coverage/
+*.coverage
+.idea/
+.vscode/
+dist/
+build/
+*.egg-info/
+.cache/
+
+# === Python / Django ===
+*.pyc
+db.sqlite3
+/media/
+/staticfiles/
+/static_root/
+.env
+venv/
+env/
+*.pot
+*.mo
+local_settings.py
+
+# === React / Vite ===
+frontend/node_modules/
+frontend/.vite/
+frontend/dist/
+frontend/.env
+frontend/.DS_Store
+
+# === OS/System files ===
+Thumbs.db
+ehthumbs.db
+Icon?
+desktop.ini
