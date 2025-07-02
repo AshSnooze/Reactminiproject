@@ -156,7 +156,6 @@ project-root/
 ---
 
 **Preview:**  
-![image](https://github.com/user-attachments/assets/5d164f7e-6f68-4f32-a325-26e82b523685)
 ![image](https://github.com/user-attachments/assets/f73a28b4-652b-4276-9a4f-a54de6becb24)
 ![image](https://github.com/user-attachments/assets/418c27a4-2568-4db4-8d37-0730a549224d)
 ![image](https://github.com/user-attachments/assets/cefce7e3-8062-4718-abc8-d573fc82a0db)
