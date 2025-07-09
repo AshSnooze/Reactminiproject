@@ -1,7 +1,3 @@
-![Screenshot 2025-07-02 215457](https://github.com/user-attachments/assets/ccde761a-a1a1-49df-b1ea-8df83cf9d4f7)Here's a creative repository description for your React multi-project repository:
-
----
-
 # React Mini-Projects Suite 🚀  
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)  ![Vite](https://img.shields.io/badge/Vite-B43757?style=for-the-badge&logo=vite&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
